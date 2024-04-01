@@ -6,7 +6,5 @@ challenge one tdm bootcamp
 * I added alt text to all the images
 
 ## assignment
-* screenshot of the app
-![screenshot](assets\images\screenshotoftheapp.PNG)
-
+* ![screenshot of the app](assets/images/screenshotoftheapp.PNG)
 * link to app https://choledad.github.io/floripondio/
